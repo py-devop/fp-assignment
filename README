@@ -1,0 +1,24 @@
+Project name : financepeer
+app name : users
+
+create a virtualenv on your machine
+activate the virtualenv
+clone my git project
+install all dependencies mentioned in reqt.txt
+
+
+Upon hitting the django server you ll be recieve a login page,enter credentials mentioned in email
+user: admin ,pw: *******
+After enterning credentials you ll be welcomed with you username (in our case it will be "admin") and you ll get a file upload option
+you can try uploading a file.
+
+login and logout button has been given inorder to movein/out from the session
+
+
+
+
+
+
+ps:
+
+I was trying to do it with models but was getting a error,am still working on the project its almost done just thought of uploading it so that you can track the progress
